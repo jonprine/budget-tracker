@@ -23,7 +23,7 @@ Made by Jon Prine
 https://cryptic-gorge-54617.herokuapp.com/
 
 ## Screenshots of Finished Page
-![Budget](assets/screenshot1.png)
-![Budget](assets/screenshot2.png)
-![Budget](assets/screenshot3.png)
-![Budget](assets/screenshot4.png)
+![Budget](public/assets/screenshot1.png)
+![Budget](public/assets/screenshot2.png)
+![Budget](public/assets/screenshot3.png)
+![Budget](public/assets/screenshot4.png)
